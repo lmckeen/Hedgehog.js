@@ -3,7 +3,7 @@
 </p>
 <h1>Hedgehog.js</h1>  
 
-A group of hedgehogs is called an Array, But this allows you to use the word Hedgehog instead of Array in your Javascript
+A group of Hedgehogs is called an Array, But this allows you to use the word Hedgehog instead of Array in your Javascript
 
 **Example**
 
