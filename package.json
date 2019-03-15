@@ -1,0 +1,21 @@
+{
+  "name": "hedgehog.js",
+  "version": "1.0.0",
+  "description": "A group of Hedgehogs is called an Array, But this allows you to use the word Hedgehog instead of Array in your Javascript",
+  "main": "hedgehog.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmckeen/Hedgehog.js.git"
+	},
+  "keywords": [
+    "hedgehog",
+    "array",
+    "javascript"
+  ],
+  "author": "Luke Mckeen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmckeen/Hedgehog.js/issues"
+  },
+  "homepage": "https://github.com/lmckeen/Hedgehog.js#readme"
+}
