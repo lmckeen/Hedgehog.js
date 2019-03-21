@@ -1,6 +1,6 @@
 {
   "name": "hedgehog.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A group of Hedgehogs is called an Array, But this allows you to use the word Hedgehog instead of Array in your Javascript",
   "main": "hedgehog.js",
   "repository": {
